@@ -1,7 +1,5 @@
 # DCM
 
-# Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory
-
 >📋 This is the implementation of Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory
 
 >📋 Accepted by CVPR 2024
