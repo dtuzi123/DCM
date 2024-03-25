@@ -9,7 +9,6 @@
 # Paper link : 
 
 
-
 # Abstract
 
 Online Task-Free Continual Learning (OTFCL) aims to learn novel concepts from streaming data without accessing task information. Memory-based approaches have shown remarkable results in OTFCL, but most require accessing supervised signals to implement their sample selection mechanisms, limiting their applicability for unsupervised learning. In this study, we address this issue by proposing a novel memory management approach, namely the Dynamic Cluster Memory (DCM), which builds new memory clusters to capture distribution shifts over time without accessing any supervised signal. 
@@ -19,6 +18,8 @@ DCM introduces a novel memory expansion mechanism based on the knowledge discrep
 
 1. Pytorch 1.12
 2. Python 3.7
+
+Our code is based on the improved diffusion model ("https://github.com/openai/improved-diffusion")
 
 # Training and evaluation
 
