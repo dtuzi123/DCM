@@ -39,3 +39,10 @@ Our code is based on the improved diffusion model ("https://github.com/openai/im
 
 # BibTex
 >📋 If you use our code, please cite our paper as:
+>@inproceedings{ye2024online,
+  title={Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory},
+  author={Ye, Fei and Bors, Adrian G},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26202--26212},
+  year={2024}
+}
