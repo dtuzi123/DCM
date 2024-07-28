@@ -27,7 +27,7 @@ Our code is based on the improved diffusion model ("https://github.com/openai/im
 
 >📋 Python xxx.py, the model will be automatically trained and then report the results after the training.
 
->📋 Different parameter settings of OCM would lead different results and we also provide different settings used in our experiments.
+  >📋 Different parameter settings of DCM would lead different results and we also provide different settings used in our experiments.
 
 
 # Visual results
